@@ -1,0 +1,40 @@
+C:\Raylib c#\fghbj\bin\Debug\netcoreapp3.1\fghbj.exe
+C:\Raylib c#\fghbj\bin\Debug\netcoreapp3.1\fghbj.deps.json
+C:\Raylib c#\fghbj\bin\Debug\netcoreapp3.1\fghbj.runtimeconfig.json
+C:\Raylib c#\fghbj\bin\Debug\netcoreapp3.1\fghbj.runtimeconfig.dev.json
+C:\Raylib c#\fghbj\bin\Debug\netcoreapp3.1\fghbj.dll
+C:\Raylib c#\fghbj\bin\Debug\netcoreapp3.1\fghbj.pdb
+C:\Raylib c#\fghbj\bin\Debug\netcoreapp3.1\Raylib-cs.dll
+C:\Raylib c#\fghbj\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libraylib.so
+C:\Raylib c#\fghbj\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libraylib.so
+C:\Raylib c#\fghbj\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libraylib.dylib
+C:\Raylib c#\fghbj\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\raylib.dll
+C:\Raylib c#\fghbj\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\raylib.dll
+C:\Raylib c#\fghbj\obj\Debug\netcoreapp3.1\fghbj.csprojAssemblyReference.cache
+C:\Raylib c#\fghbj\obj\Debug\netcoreapp3.1\fghbj.AssemblyInfoInputs.cache
+C:\Raylib c#\fghbj\obj\Debug\netcoreapp3.1\fghbj.AssemblyInfo.cs
+C:\Raylib c#\fghbj\obj\Debug\netcoreapp3.1\fghbj.csproj.CoreCompileInputs.cache
+C:\Raylib c#\fghbj\obj\Debug\netcoreapp3.1\fghbj.csproj.CopyComplete
+C:\Raylib c#\fghbj\obj\Debug\netcoreapp3.1\fghbj.dll
+C:\Raylib c#\fghbj\obj\Debug\netcoreapp3.1\fghbj.pdb
+C:\Raylib c#\fghbj\obj\Debug\netcoreapp3.1\fghbj.genruntimeconfig.cache
+C:\Raylib c# vinter orjoekt\fghbj\bin\Debug\netcoreapp3.1\fghbj.exe
+C:\Raylib c# vinter orjoekt\fghbj\bin\Debug\netcoreapp3.1\fghbj.deps.json
+C:\Raylib c# vinter orjoekt\fghbj\bin\Debug\netcoreapp3.1\fghbj.runtimeconfig.json
+C:\Raylib c# vinter orjoekt\fghbj\bin\Debug\netcoreapp3.1\fghbj.runtimeconfig.dev.json
+C:\Raylib c# vinter orjoekt\fghbj\bin\Debug\netcoreapp3.1\fghbj.dll
+C:\Raylib c# vinter orjoekt\fghbj\bin\Debug\netcoreapp3.1\fghbj.pdb
+C:\Raylib c# vinter orjoekt\fghbj\bin\Debug\netcoreapp3.1\Raylib-cs.dll
+C:\Raylib c# vinter orjoekt\fghbj\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libraylib.so
+C:\Raylib c# vinter orjoekt\fghbj\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libraylib.so
+C:\Raylib c# vinter orjoekt\fghbj\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libraylib.dylib
+C:\Raylib c# vinter orjoekt\fghbj\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\raylib.dll
+C:\Raylib c# vinter orjoekt\fghbj\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\raylib.dll
+C:\Raylib c# vinter orjoekt\fghbj\obj\Debug\netcoreapp3.1\fghbj.csprojAssemblyReference.cache
+C:\Raylib c# vinter orjoekt\fghbj\obj\Debug\netcoreapp3.1\fghbj.AssemblyInfoInputs.cache
+C:\Raylib c# vinter orjoekt\fghbj\obj\Debug\netcoreapp3.1\fghbj.AssemblyInfo.cs
+C:\Raylib c# vinter orjoekt\fghbj\obj\Debug\netcoreapp3.1\fghbj.csproj.CoreCompileInputs.cache
+C:\Raylib c# vinter orjoekt\fghbj\obj\Debug\netcoreapp3.1\fghbj.csproj.CopyComplete
+C:\Raylib c# vinter orjoekt\fghbj\obj\Debug\netcoreapp3.1\fghbj.dll
+C:\Raylib c# vinter orjoekt\fghbj\obj\Debug\netcoreapp3.1\fghbj.pdb
+C:\Raylib c# vinter orjoekt\fghbj\obj\Debug\netcoreapp3.1\fghbj.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Raylib c#\\fghbj\\fghbj.csproj": {}
+    "C:\\Raylib c# vinter orjoekt\\fghbj\\fghbj.csproj": {}
   },
   "projects": {
-    "c:\\Raylib c#\\fghbj\\fghbj.csproj": {
+    "C:\\Raylib c# vinter orjoekt\\fghbj\\fghbj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Raylib c#\\fghbj\\fghbj.csproj",
+        "projectUniqueName": "C:\\Raylib c# vinter orjoekt\\fghbj\\fghbj.csproj",
         "projectName": "fghbj",
-        "projectPath": "c:\\Raylib c#\\fghbj\\fghbj.csproj",
+        "projectPath": "C:\\Raylib c# vinter orjoekt\\fghbj\\fghbj.csproj",
         "packagesPath": "C:\\Users\\tina.li\\.nuget\\packages\\",
-        "outputPath": "c:\\Raylib c#\\fghbj\\obj\\",
+        "outputPath": "C:\\Raylib c# vinter orjoekt\\fghbj\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tina.li\\AppData\\Roaming\\NuGet\\NuGet.Config",
